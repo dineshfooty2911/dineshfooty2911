@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dinesh Kumar</h1>
+<h1 align="center">Hi 👋, I'm Dinesh</h1>
 <h3 align="Left">As a data-driven professional with comprehensive skills in Python, SQL, Tableau and Azure cloud. My expertise in utilizing this skills has enabled me to extract valuable insights from large datasets, transforming raw data into actionable information for decision-makers. With a proven track record of delivering high-quality work, I am confident in my ability to leverage my technical abilities to drive meaningful results for any organization.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dineshfooty2911&label=Profile%20views&color=0e75b6&style=flat" alt="dineshfooty2911" /> </p>
