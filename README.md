@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on Data pipepline Project [ETL Pipeline using Open Source](https://github.com/dineshfooty2911/Project/tree/Dinesh)
 
-- 🌱 I’m currently learning **Apache Iceberg**
+- 🌱 My Tableau Viz https://public.tableau.com/app/profile/dinesh.kumar.ariyadhavaraj/vizzes
 
 - 👨‍💻 All of my projects are available at [https://dineshraju2911.wixsite.com/my-site-1/projects](https://dineshraju2911.wixsite.com/my-site-1/projects)
 
